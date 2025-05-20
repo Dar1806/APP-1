@@ -1,5 +1,7 @@
 # APP-1
-Application for an APP for the ESME
+A Python desktop app for viewing, editing, and analyzing sales data through a simple graphical interface.
+
+
 
 This project is a Python desktop application that allows users to load, view, modify, and analyze sales data through a graphical interface.
 
